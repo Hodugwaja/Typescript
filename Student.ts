@@ -2,7 +2,7 @@ import { Person } from './person';
 
 class Student extends Person{
     study() : string {
-        return `${this.name} is Gay.\nAnd he is BakBakYee`;
+        return `${this.name} is um....`;
     }
 }
 
